@@ -17,6 +17,10 @@ git@github.com:cwf1984/Code-Refactor.git
 
 ## Usage
 
+* Each navigation link directs the user to the corresponding area of the bottom of the page
+* The HTML is coded for better accessibility for screen readers
+
+## Images
 
 ## Credits
 
