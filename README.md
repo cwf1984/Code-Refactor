@@ -1,7 +1,7 @@
 # Code-Refactor
 Homework Week 1
 
-##Table of Contents
+## Table of Contents
 
 1. Installation
 2. Usage
