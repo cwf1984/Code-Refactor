@@ -9,18 +9,18 @@ Homework Week 1
 4. Credits
 5. License
 
-##Installation
+## Installation
 
 Clone with SSH Key:
 git@github.com:cwf1984/Code-Refactor.git
 
-##Usage
+## Usage
 
-##Credits
+## Credits
 
 Thank you to Bootcamp Spot, the University of Washington and Trilogy Education for the code they provided and allowed me to work on for the purpose of learning.
 
-##License
+## License
 
 MIT License
 
@@ -44,5 +44,5 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-##URL
+## URL
 https://cwf1984.github.io/Code-Refactor/
