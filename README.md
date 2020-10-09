@@ -8,6 +8,7 @@ Homework Week 1
 3. Images
 4. Credits
 5. License
+6. URL 
 
 ## Installation
 
@@ -15,6 +16,7 @@ Clone with SSH Key:
 git@github.com:cwf1984/Code-Refactor.git
 
 ## Usage
+
 
 ## Credits
 
