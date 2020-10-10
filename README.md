@@ -24,7 +24,7 @@ Or use the URL listed below to pull up the live.
 
 ## Images
 
-This is an image of the original HTML code which shows that the semantics were primarily div tags:\
+This is an image of the original HTML code which shows that the semantics were primarily div tags:
 
 ![HTML Before Changes](./assets/images/HTML_Before.png "HTML Before Changes")  
 
