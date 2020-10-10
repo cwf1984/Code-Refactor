@@ -15,12 +15,42 @@ Homework Week 1
 Clone with SSH Key:
 git@github.com:cwf1984/Code-Refactor.git
 
+Or use the URL listed below to pull up the live.
+
 ## Usage
 
 * Each navigation link directs the user to the corresponding area of the bottom of the page
 * The HTML is coded for better accessibility for screen readers
 
 ## Images
+
+This is an image of the original HTML code which shows that the semantics were primarily div tags:\
+
+![HTML Before Changes](./assets/images/HTML_Before.png "HTML Before Changes")  
+
+
+
+This image shows the semantics that were changed for better accessibility:
+
+
+
+![HTML Semantic Changes](./assets/images/HTML_Code_2.png "Revised HTML Semantics")
+
+
+
+This image demonstrates the repetative nature of the original CSS code:
+
+
+
+![CSS Before Changes](./assets/images/CSS_Before.png "CSS Before Changes")
+
+
+
+This image illustrates how the CSS is consolidated for a more concise file:
+
+
+
+![CSS Code Condensed](./assets/images/CSS_Code.png "CSS tags has been consolidated")
 
 ## Credits
 
